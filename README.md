@@ -144,14 +144,10 @@ Combined three approaches for robust feature selection:
 
 ## Notable Visualizations
 
-- **Promotion Distribution**  
-  ![Promotion Distribution](images/promotion_distribution.png)
+- **Promotion and Training Score**  
+  ![Train Vs Promotion](images/trainvspromotion.png)
 - **Department-wise Promotions**  
-  ![Department Promotion](images/department_promotion.png)
-- **Education Pie Chart**  
-  ![Education Pie](images/education_pie.png)
-- **Correlation Heatmap**  
-  ![Correlation Heatmap](images/correlation_heatmap.png)
+  ![Age Distribution](images/agedist.png)
 - **Streamlit App Screenshot**  
   ![Streamlit Screenshot](images/streamlit_screenshot.png)
 
