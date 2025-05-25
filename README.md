@@ -94,7 +94,6 @@ Combined three approaches for robust feature selection:
 
 - **Streamlit App**: User-friendly web interface for HR teams.
 - **Model & Encoders Serialization**: All encoders and the Random Forest model are saved as `.pkl` files.
-- **Live Demo**: [Streamlit Deployment Link](https://your-streamlit-app-url)  
   ![Streamlit Screenshot](images/streamlit_screenshot.png)
 
 ---
