@@ -1,6 +1,6 @@
 # HR Analytics Employee Promotion Prediction
 
-![Promotion Dashboard](images/promotion_dashboard.png)
+
 
 A sophisticated machine learning pipeline to predict employee promotions using advanced feature engineering, model selection, and a production-ready Streamlit deployment. This project leverages encoded categorical features and a serialized `.pkl` model for seamless, real-time predictions.
 
