@@ -121,7 +121,7 @@ Combined three approaches for robust feature selection:
 ---
 
 ## File Structure
-
+```
 ├── data/
 │ ├── train.csv
 │ ├── test.csv
@@ -139,7 +139,7 @@ Combined three approaches for robust feature selection:
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Notable Visualizations
